@@ -1,0 +1,6 @@
+venv/
+mlruns/
+logs/
+.env
+DEVOPS_PROJECT_1.egg-info/
+.DS_Store
