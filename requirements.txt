@@ -7,3 +7,4 @@ python-dotenv
 imbalanced-learn
 lightgbm
 mlflow
+flask
